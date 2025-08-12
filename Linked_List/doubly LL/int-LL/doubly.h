@@ -1,0 +1,4 @@
+class DoublyLL
+{
+	Node* start;		
+};
